@@ -7,8 +7,8 @@ import java.util.List;
 
 public interface ICursoService {
     public void saveCurso(Curso cur);
-    public void editCurso(Long id_cusoOriginal,
-                          Long id_cusoNuevo,
+    public void editCurso(Long id_cursoOriginal,
+                          Long id_cursoNuevo,
                           String nombreNuevo,
                           String modalidadNueva,
                           Date fecha_finalizacionNueva);

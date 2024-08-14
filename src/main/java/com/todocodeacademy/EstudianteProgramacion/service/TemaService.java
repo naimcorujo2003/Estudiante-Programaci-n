@@ -1,6 +1,5 @@
 package com.todocodeacademy.EstudianteProgramacion.service;
 
-import com.todocodeacademy.EstudianteProgramacion.model.Curso;
 import com.todocodeacademy.EstudianteProgramacion.model.Tema;
 import com.todocodeacademy.EstudianteProgramacion.repository.ITemaRepository;
 import java.util.List;
